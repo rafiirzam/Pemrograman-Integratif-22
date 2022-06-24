@@ -1,5 +1,6 @@
 # Pemrograman-Integratif-22
 Muhammad Rafi Irzam | IT 02-01 | 1202190063
+# First Week
 ## 1. Install Composer
 ![image](https://user-images.githubusercontent.com/83237598/173079242-fe7b1417-8b7f-4974-9fb5-bae272d419b9.png)
 ### Cek Instalasi Composer di Command Prompt
@@ -10,3 +11,8 @@ Muhammad Rafi Irzam | IT 02-01 | 1202190063
 ![image](https://user-images.githubusercontent.com/83237598/173081461-8985f025-541a-4fa9-8913-fd4a14793659.png)
 ## 4. Cek Instalasi Laravel di Web Browser
 ![image](https://user-images.githubusercontent.com/83237598/173082172-6e9b0522-c5f3-48d4-b40a-7ad40bd6479a.png)
+# Second Week
+## 1. Change DB_DATABASE 
+![image](https://user-images.githubusercontent.com/83237598/175515252-4feb386a-d008-4db1-b624-3374c07b1508.png)
+![image](https://user-images.githubusercontent.com/83237598/175519946-205e04b5-bc34-4417-967e-324b5e24ef4e.png)
+## 
